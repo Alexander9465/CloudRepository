@@ -1,9 +1,9 @@
 spring:
- application:
-    name: customer-service
- cloud:
-  config:
-   uri: http://localhost:8081
-   username: root
-   password: s3cr3t
- 
+  application:
+    name: SpringCloudPrueba-1
+  cloud:
+    config:
+      uri: http://localhost:8081
+      username: root
+      password: s3cr3t
+  
